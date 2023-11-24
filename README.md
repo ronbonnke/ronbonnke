@@ -1,5 +1,6 @@
-### Hi there 👋
+# Ron Bonnke
 
+I'm a full stack web developer and creator building my version of the digital world one step at a time. All coding and projects are built from the ground up, from planning and designing all the way to solving real-life problems with code..
 <!--
 **ronbonnke/ronbonnke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
