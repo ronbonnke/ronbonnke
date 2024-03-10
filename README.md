@@ -4,7 +4,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 🚀 **Skills and Tools:**
 
-- Data Structures and Algorithms : <img src="https://img.icons8.com/co ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+- Data Structures and Algorithms : <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
 - Frontend : ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
 - Tools : ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
