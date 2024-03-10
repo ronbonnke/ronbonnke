@@ -1,13 +1,13 @@
-# Hi there, I'm Ron Bonnke! 👋
+# Hey there, I'm Ron Bonnke! 👋
 
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
 
 🚀 **Skills and Tools:**
 
-- Data Structures and Algorithm in ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
-- Frontend: ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
+- Data Structures and Algorithms :  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+- Frontend : ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+- Backend : ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+- Tools : ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
 
 
 💼 **Projects:**
