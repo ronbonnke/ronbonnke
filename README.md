@@ -9,6 +9,12 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
 - Tools : ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
 
+- Data Structures and Algorithm in <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+- Frontend: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
+- Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+- Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/> GitHub <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VSCode <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> Postman <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> IntelliJ IDEA
+
+
 
 💼 **Projects:**
 
