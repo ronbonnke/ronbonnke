@@ -10,10 +10,6 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Tools :  GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>,  VScode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, PostmanApi -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) , IntelliJidea - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 
 
-JavaScript: 52.9%
-- HTML: 33.0%
-- CSS: 14.1%
-
 💼 **Projects:**
 
 1. [YouTube Clone](https://tiny-sopapillas-788139.netlify.app/)
