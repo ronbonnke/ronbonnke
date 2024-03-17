@@ -3,13 +3,14 @@
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
 
 🚀 **Skills and Tools:**
-Data Structures and Algorithms: Java - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
-Frontend: HTML - <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, CSS - <img src="https://img.icons8.com/color/48/000000/css3.png"/>, JavaScript - <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, React.js - <img src="https://img.icons8.com/color/48/000000/react-native.png"/>, Python - <img src="https://img.icons8.com/color/48/000000/python.png"/>
+- Data Structures and Algorithms: Java - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  
+- Frontend: HTML - <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, CSS - <img src="https://img.icons8.com/color/48/000000/css3.png"/>, JavaScript - <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, React.js - <img src="https://img.icons8.com/color/48/000000/react-native.png"/>, Python - <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
-Backend: Node.js - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, Express.js - <img src="https://img.icons8.com/color/48/000000/express.png"/>, MongoDB - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, SQL - <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+- Backend: Node.js - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, Express.js - <img src="https://img.icons8.com/color/48/000000/express.png"/>, MongoDB - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, SQL - <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 
-Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, Postman - <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>, IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>, ChatGPT - <img src="https://img.icons8.com/ios/50/000000/chatbot.png"/>
+- Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, Postman - <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>, IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>, ChatGPT - <img src="https://img.icons8.com/color/48/000000/chat.png"/>
 
 
 💼 **Projects:**
