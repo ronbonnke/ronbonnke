@@ -23,7 +23,8 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 I'm always eager to learn and improve. Currently diving deeper into practices and exploring new things.
 
-I'm learning the basics of Python - <img src="https://img.icons8.com/color/48/000000/python.png"/>
+I'm learning the basics of Python 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 📫 **How to Reach Me:**
 
