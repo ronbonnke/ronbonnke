@@ -10,37 +10,10 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, PostmanAPI -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,  IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 
 
-name: Update README Stats
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Run daily
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Fetch Repository Stats
-        run: |
-          # Use GitHub API to fetch repository stats
-          # Process the data to extract necessary information
-          # Update README.md with the retrieved stats
-
-      - name: Commit Changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update README with latest stats [skip ci]"
-          git push
-
-
 
 
 💼 **Projects:**
+
 
 
 1. [YouTube Clone](https://tiny-sopapillas-788139.netlify.app/)
