@@ -11,6 +11,9 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 
 
+[![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
+
+
 
 💼 **Projects:**
 
