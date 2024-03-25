@@ -15,14 +15,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 [![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
 
-
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&hide=contribs,prs)
-
-
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true)
+![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=radical)
 
 💼 **Projects:**
 
