@@ -12,14 +12,10 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 ⚡ **MY STATS** :
 
-
-[![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
-
 ![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
 
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=merko)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 💼 **Projects:**
 
