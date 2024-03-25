@@ -10,7 +10,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, PostmanAPI -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,  IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 
 
-
+⚡ **MY STATS**
 [![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
 
 
