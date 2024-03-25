@@ -16,7 +16,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
 
-
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksymrudnyi&layout=compact"/>
 
 
 💼 **Projects:**
