@@ -1,4 +1,4 @@
-# Hey there, I'm Ron Bonnke! 👋 ** I LOVE FRONT~END.. **
+# Hey there, I'm Ron Bonnke! 👋 ` I LOVE FRONT~END.. `
 
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
 
@@ -7,7 +7,35 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Data Structures and Algorithms: Java - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 - Frontend: HTML - <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, CSS - <img src="https://img.icons8.com/color/48/000000/css3.png"/>, JavaScript - <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, React.js - <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 - Backend: Node.js - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, Express.js - <img src="https://img.icons8.com/color/48/000000/express.png"/>, MongoDB - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, SQL - <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-- Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, PostmanAPI -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,  IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+- Tools: GitHub - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, VSCode - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, PostmanAPI -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,  IntelliJ IDEA - <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
+
+
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Repository Stats
+        run: |
+          # Use GitHub API to fetch repository stats
+          # Process the data to extract necessary information
+          # Update README.md with the retrieved stats
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with latest stats [skip ci]"
+          git push
 
 
 
