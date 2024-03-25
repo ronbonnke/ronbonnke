@@ -19,22 +19,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 ![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=merko)
 
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=gruvbox)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=tokyonight)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=onedark)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=cobalt)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dracula)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=synthwave)
-
-![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=highcontrast)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 💼 **Projects:**
 
