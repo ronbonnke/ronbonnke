@@ -10,18 +10,6 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Tools: - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,- <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 
 
-⚡ **MY STATS** :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
-
-
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
-
-
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronbonnke&layout=compact"/>
-
 💼 **Projects:**
 
 
@@ -39,6 +27,24 @@ I'm always eager to learn and improve. Currently diving deeper into practices an
 
 I'm learning the basics of Python 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
+
+
+
+⚡ **MY STATS** :
+
+
+![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
+
+
+
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronbonnke&layout=compact"/>
+
 
 
 📫 **How to Reach Me:**
