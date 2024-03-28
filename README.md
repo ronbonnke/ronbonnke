@@ -12,13 +12,13 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 ⚡ **MY STATS** :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
+                                                   [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
+                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
 
 
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
+                                        ![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
 
 
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronbonnke&layout=compact"/>
