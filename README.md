@@ -42,9 +42,37 @@ I'm learning the basics of Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
 
 
+yo!!!
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronbonnke&layout=compact"/>
+[![ronbonnke's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ronbonnke/github-readme-stats#gh-dark-mode-only)
+[![ronbonnke's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ronbonnke/github-readme-stats#gh-light-mode-only)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true" />
+</picture>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/ronbonnke/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut-vertical)](https://github.com/ronbonnke/github-readme-stats)
+
+[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ronbonnke/github-readme-stats)
+
+[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ronbonnke/github-readme-stats)
+
+[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ronbonnke/github-readme-stats)
 
 
 📫 **How to Reach Me:**
