@@ -68,11 +68,10 @@ yo!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut-vertical)](https://github.com/ronbonnke/github-readme-stats)
 
-[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ronbonnke/github-readme-stats)
+[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
 
-[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ronbonnke/github-readme-stats)
 
-[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ronbonnke/github-readme-stats)
+[![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke&layout=compact)](https://github.com/ronbonnke/github-readme-stats)
 
 
 📫 **How to Reach Me:**
