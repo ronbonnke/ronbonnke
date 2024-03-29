@@ -42,10 +42,10 @@ I'm learning the basics of Python
    [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/ronbonnke/github-readme-stats)
 
 
-
+   [![ronbonnke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)
 
 📫 **How to Reach Me:**
 
