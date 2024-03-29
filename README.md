@@ -33,29 +33,13 @@ I'm learning the basics of Python
 ⚡ **MY STATS** :
 
 
-![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)
+  -------------------------------------- ![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) ------------------------------------------
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
+   ----------------------------------------------[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)--------------------------------------------------
 
 
-
-yo!!!
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true" />
-</picture>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact)
+  ---------------------------------------------![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact)---------------------------------------------------
 
 
 
