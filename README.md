@@ -39,26 +39,17 @@ I'm learning the basics of Python
    [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
 
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" alt="WakaTime Stats" />
+
+
+<a href="https://github.com/ronbonnke/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke&layout=compact" alt="WakaTime Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ronbonnke/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact" alt="Top Languages" />
 </a>
-
-
-
-<!-- WakaTime Stats and Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" alt="WakaTime Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact" alt="Top Languages" />
-</a>
-
 
 
 
