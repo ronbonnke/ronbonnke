@@ -1,6 +1,8 @@
-# Hey there, I'm Ron Bonnke! 👋 ` I LOVE FRONT~END.. `
+# Hey there, I'm Ron Bonnke..! 👋 ` I LOVE FRONT~END.. `
 
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
+
+
 
 🚀 **Skills and Tools:**
  
@@ -21,6 +23,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
    - Experience the ultimate in online fashion with our Bewakoof Online Shopping E-commerce platform built on ReactJS. Dive into a world of trendy apparel, original designs, and seamless shopping.
 
 
+
 🌱 **Currently Learning:**
 
 I'm always eager to learn and improve. Currently diving deeper into practices and exploring new things.
@@ -39,17 +42,8 @@ I'm learning the basics of Python
    [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<a href="https://github.com/ronbonnke/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke&layout=compact" alt="WakaTime Stats" />
-</a>
-<a href="https://github.com/ronbonnke/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact" alt="Top Languages" />
-</a>
 
 
 
