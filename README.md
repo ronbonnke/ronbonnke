@@ -363,7 +363,9 @@ const ronbonnke = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ronbonnke/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" /> --!>
+
 
 ###
 
