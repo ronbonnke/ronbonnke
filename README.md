@@ -36,7 +36,7 @@ I'm learning the basics of Python
 ⚡ **MY STATS** :
 
 
-  `                                         ` ![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) 
+  `                                                             ` ![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) 
 
 
   `                                                   ` [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
