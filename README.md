@@ -70,54 +70,6 @@ I love exploring new things in life and trying out different cuisines.
 
 yokoso
 
-<!-- Matrix Gif Here -->
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- Greet Line Comes Here -->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
-</p>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/ronbonnke/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Introduction Section Here -->
-<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm ronbonnke </h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical%20Engineer;Full%20Stack%20Developer;Graphics%20Designer;Tech%20Enthusiast&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
-<!-- Coloured Lines -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/ronbonnke/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Animated Gif Here -->
-<p align="center">
-  <img src="animated.gif" align="center" width="90%" />
-</p>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- About Me Section Here -->
-
-## <picture><img src = "https://github.com/ChinmayKaitade/ronbonnke/blob/main/about_me.gif" width = 50px></picture> *About Me*
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-
-
 
 
 <!-- Random Joke Section Here -->
@@ -131,17 +83,17 @@ yokoso
 ```javascript
 const ronbonnke = {
   askMeAbout: ["Web Dev", "Tech", "Editing"],
-  code: [HTML, CSS, JavaScript],
-  tools: [React, Redux, Node, Postman, Boootstrap],
+  code: [HTML, CSS, JavaScript, React, Node,  ],
+  tools: [Postman, Github, VsCode and other IDE's],
   techCommunities: {
                            Google Crowdsource,
-                           Github Developers Club,
+                           Github Developing Club,
                            Follow Me on LinkedIn
                       },
   hobbies: {
                'Playing Games',
                'Tech Enthusiast'
-               'Being up all Night Chasing that ONE BUG...'
+               'Staying up all Night Chasing that ONE BUG...'
            },
 
  challenge: ["I am Learning Full Stack Web Development"],
@@ -149,18 +101,7 @@ const ronbonnke = {
  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
 ```
-
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-</td></tr></table>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+ 
 
 <!-- GitHub Stats Section Here -->
 
@@ -170,7 +111,8 @@ const ronbonnke = {
 
 | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=radical)              | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=radical)                     
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=radical&utcOffset=8) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/ronbonnke/github-readme-stats)
+ | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=radical&utcOffset=8) |
 
 <!-- color=nord_dark -->
 
@@ -192,11 +134,6 @@ const ronbonnke = {
 [![ronbonnke github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronbonnke&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/ronbonnke/github-readme-activity-graph)
 
 <hr>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <!-- Trophies Section Here -->
 
