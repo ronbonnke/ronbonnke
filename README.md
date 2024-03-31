@@ -1,9 +1,8 @@
 # Hey there, I'm Ron Bonnke..! 👋 ` I LOVE FRONT~END.. `
-<p>
-<h3>
-I'm a passionate full stack web developer and creator,<h4>dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.</h4>
-</h3></p>
 
+
+<h3>
+I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.</h3>
 
 <center>  
 🚀 Tech Stack
@@ -16,6 +15,7 @@ I'm a passionate full stack web developer and creator,<h4>dedicated to crafting 
 | - Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> |
 </center>
 
+<hr>
 💼 **Projects:**
 
 
@@ -25,7 +25,7 @@ I'm a passionate full stack web developer and creator,<h4>dedicated to crafting 
 2. [E-commerce Website - Bewakoof Clone](https://fabulous-basbousa-94a726.netlify.app/)
    - Experience the ultimate in online fashion with our Bewakoof Online Shopping E-commerce platform built on ReactJS. Dive into a world of trendy apparel, original designs, and seamless shopping.
 
-
+<hr>
 
 🌱 **Currently Learning:**
 
@@ -34,6 +34,7 @@ I'm always eager to learn and improve. Currently diving deeper into practices an
 I'm Currently learning the basics of Python 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
+<hr>
 
 📫 **How to Reach Me:**
 
@@ -114,6 +115,7 @@ I love exploring new things in life and trying out different cuisines.
 <div align="center">
 
 
+<hr>
 
 ### A Little More About Me! 🧟‍♂️
 
