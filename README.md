@@ -33,19 +33,6 @@ I'm learning the basics of Python
 
 
 
-⚡ **MY STATS** :
-
-
-  ` ```````````````````````````````` ![ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) 
-
-
-  ` `````````````` [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke)](https://git.io/streak-stats)
-
-
-  ` ````` [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/ronbonnke/github-readme-stats)
-
-
-
 📫 **How to Reach Me:**
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@email.com](mailto:ronbonnke789@email.com).
@@ -61,10 +48,9 @@ I love exploring new things in life and trying out different cuisines.
 
 
 
-
-
-
-
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
+</p>
 
 
 
@@ -109,7 +95,7 @@ const ronbonnke = {
 
 <hr>
 
-| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=radical)              | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=radical)                     
+| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark)              | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark)                     
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut)](https://github.com/ronbonnke/github-readme-stats)
  | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=radical&utcOffset=8) |
@@ -117,10 +103,10 @@ const ronbonnke = {
 <!-- color=nord_dark -->
 
 <hr>
-
+<!--
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
+</p> --!>
 
 <!-- Coloured Line -->
 <h3 align="center">
