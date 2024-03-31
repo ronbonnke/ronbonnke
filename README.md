@@ -4,8 +4,8 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 
 
-<p align="center">  
-# 🚀 Skills and Tools
+<center>  
+🚀 Skills and Tools
 
 | Skills and Tools                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 | - Frontend: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/> |
 | - Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, <img src="https://img.icons8.com/color/48/000000/express.png"/>, <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, <img src="https://img.icons8.com/color/48/000000/sql.png"/> |
 | - Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> |
-</p>
+</center>
 
 
 
