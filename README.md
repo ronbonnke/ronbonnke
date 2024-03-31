@@ -54,7 +54,9 @@ I love exploring new things in life and trying out different cuisines.
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
 </p>
 
-
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
+<hr>
+<br>
 
 yokoso
 
@@ -139,24 +141,13 @@ const ronbonnke = {
 
 ## 💳 Github Profile Summary Card
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
-<hr>
-<br>
+
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=2077"  display=block width=100% height=auto  alt="1" >
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=2077"  display=block width=100% height=auto  alt="1" > --!>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=dark"  display=block width=100% height=auto  alt="1" >
 </div>
-
-<
-
-<div align="center">
-<img src="banner.png" align = "center"/>
-</div>
-
-
-
-
 
 <div align="center">
 
