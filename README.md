@@ -4,8 +4,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 
 
-<center>
-  
+<p align="center">  
 # 🚀 Skills and Tools
 
 | Skills and Tools                                                                                                                |
@@ -14,8 +13,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 | - Frontend: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/> |
 | - Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, <img src="https://img.icons8.com/color/48/000000/express.png"/>, <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, <img src="https://img.icons8.com/color/48/000000/sql.png"/> |
 | - Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> |
-
-</center>
+</p>
 
 
 
@@ -71,33 +69,8 @@ I love exploring new things in life and trying out different cuisines.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-### A Little More About Me! 🧟‍♂️
-
-```javascript
-const ronbonnke = {
-  askMeAbout: ["Web Dev", "Tech", "Editing"],
-  code: [HTML, CSS, JavaScript, React, Node,  ],
-  tools: [Postman, Github, VsCode and other IDE's],
-  techCommunities: {
-                           Google Crowdsource,
-                           Github Developing Club,
-                           Follow Me on LinkedIn
-                      },
-  hobbies: {
-               'Playing Games',
-               'Tech Enthusiast'
-               'Staying up all Night Chasing that ONE BUG...'
-           },
-
- challenge: ["I am Learning Full Stack Web Development"],
-
- lastButNotLeast: ["Updating Myself Virtually and in Reality"]
-}
-```
- 
 
 <!-- GitHub Stats Section Here -->
-
 
 
 # 📊 GitHub Stats
@@ -140,6 +113,33 @@ const ronbonnke = {
 </div>
 
 <div align="center">
+
+
+
+### A Little More About Me! 🧟‍♂️
+
+```javascript
+const ronbonnke = {
+  askMeAbout: ["Web Dev", "Tech", "Editing"],
+  code: [HTML, CSS, JavaScript, React, Node,  ],
+  tools: [Postman, Github, VsCode and other IDE's],
+  techCommunities: {
+                           Google Crowdsource,
+                           Github Developing Club,
+                           Follow Me on LinkedIn
+                      },
+  hobbies: {
+               'Playing Games',
+               'Tech Enthusiast'
+               'Staying up all Night Chasing that ONE BUG...'
+           },
+
+ challenge: ["I am Learning Full Stack Web Development"],
+
+ lastButNotLeast: ["Updating Myself Virtually and in Reality"]
+}
+```
+ 
 
 ### Made By ❤️ RONBONNKE © Copyright. All Rights Reserved @2024.
 
