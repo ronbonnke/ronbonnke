@@ -51,7 +51,6 @@ I love exploring new things in life and trying out different cuisines.
 
 
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=28a745">
 </p>
 
@@ -96,9 +95,7 @@ const ronbonnke = {
 
 <!-- GitHub Stats Section Here -->
 
-# 📊 GitHub Stats
 
-<hr>
 
 # 📊 GitHub Stats
 
@@ -106,12 +103,13 @@ const ronbonnke = {
 
 | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&langs_count=8&theme=dark&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut" width="400px" alt="Top Langs"> | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) |
 
 
 
 `_'
 
+<!--
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <div style="flex: 1; margin: 10px;">
         <a href="https://github.com/ronbonnke">
@@ -137,6 +135,8 @@ const ronbonnke = {
         </a>
     </div>
 </div>
+
+--!>
 
 
 `_'
