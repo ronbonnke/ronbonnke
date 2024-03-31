@@ -12,6 +12,19 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 - Tools: - <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, -  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white) ,- <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 
 
+
+# 🚀 Skills and Tools
+
+| Skills and Tools                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| - Data Structures and Algorithms: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>            |
+| - Frontend: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/> |
+| - Backend: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, <img src="https://img.icons8.com/color/48/000000/express.png"/>, <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, <img src="https://img.icons8.com/color/48/000000/sql.png"/> |
+| - Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> |
+
+
+
+
 💼 **Projects:**
 
 
@@ -43,11 +56,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 I love exploring new things in life and trying out different cuisines.
 
-<!-- Feel free to use or modify this template! -->
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-
-
+</p>
 
 
 <p align="center">
@@ -56,11 +67,9 @@ I love exploring new things in life and trying out different cuisines.
 
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&color=28a745">
-
 <hr>
 <br>
 
-`-'
 
 <!-- Random Joke Section Here -->
 <div align="center"> 
@@ -99,58 +108,11 @@ const ronbonnke = {
 
 # 📊 GitHub Stats
 
-<hr>
-
 | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut" width="400px" alt="Top Langs"> | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) |
 
-
-
-`_'
-
-<!--
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="flex: 1; margin: 10px;">
-        <a href="https://github.com/ronbonnke">
-            <img src="https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark" width="400px" alt="ronbonnke Github Stats">
-        </a>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <a href="https://github.com/ronbonnke">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark" width="400px" alt="ronbonnke GitHub Streak">
-        </a>
-    </div>
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="flex: 1; margin: 10px;">
-        <a href="https://github.com/ronbonnke">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut" width="400px" alt="Top Langs">
-        </a>
-    </div>
-    <div style="flex: 1; margin: 10px;">
-        <a href="https://github.com/ronbonnke">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=radical&utcOffset=8" width="400px" alt="Github Stars">
-        </a>
-    </div>
-</div>
-
---!>
-
-
-`_'
-
 <hr>
-<!--
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p> --!>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <!-- GitHub Contribution Section Here -->
 
@@ -174,9 +136,8 @@ const ronbonnke = {
 
 <!-- Summary Section Here -->
 
+
 ## 💳 Github Profile Summary Card
-
-
 
 <div>
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=2077"  display=block width=100% height=auto  alt="1" > --!>
