@@ -1,8 +1,8 @@
 # Hey there, I'm Ron Bonnke..! 👋 ` I LOVE FRONT~END.. `
 
-<h1>
+<h2>
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
-</h1>
+</h2>
 
 
 <center>  
@@ -44,16 +44,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 ⚡ **Fun Fact:**
 
 I love exploring new things in life and trying out different cuisines.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-  </kbd>
-</p>
 
 
 <p align="center">
@@ -104,9 +94,16 @@ I love exploring new things in life and trying out different cuisines.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+  </kbd>
+</p>
+
+
+
 <!-- Summary Section Here -->
-
-
 ## 💳 Github Profile Summary Card
 
 <div>
