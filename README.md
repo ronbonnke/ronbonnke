@@ -45,7 +45,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 I love exploring new things in life and trying out different cuisines.
 
-
+<hr>
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=28a745">
 </p>
@@ -62,9 +62,15 @@ I love exploring new things in life and trying out different cuisines.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+  </kbd>
+</p>
+
+
 
 <!-- GitHub Stats Section Here -->
-
 
 # 📊 GitHub Stats
 
@@ -93,13 +99,6 @@ I love exploring new things in life and trying out different cuisines.
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<p align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-  </kbd>
-</p>
 
 
 
