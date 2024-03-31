@@ -1,11 +1,12 @@
 # Hey there, I'm Ron Bonnke..! 👋 ` I LOVE FRONT~END.. `
 
+<h1>
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.
-
+</h1>
 
 
 <center>  
-🚀 Skills and Tools
+🚀 Tech Stack
 
 | Skills and Tools                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,10 +16,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 | - Tools: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> |
 </center>
 
-
-
 💼 **Projects:**
-
 
 
 1. [YouTube Clone](https://tiny-sopapillas-788139.netlify.app/)
@@ -33,9 +31,8 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 I'm always eager to learn and improve. Currently diving deeper into practices and exploring new things.
 
-I'm learning the basics of Python 
+I'm Currently learning the basics of Python 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-
 
 
 📫 **How to Reach Me:**
@@ -50,6 +47,12 @@ I love exploring new things in life and trying out different cuisines.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+  </kbd>
 </p>
 
 
