@@ -56,6 +56,13 @@ I love exploring new things in life and trying out different cuisines.
 <hr>
 <br>
 
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+  </kbd>
+</p>
+
+
 
 <!-- Random Joke Section Here -->
 <div align="center"> 
@@ -63,11 +70,6 @@ I love exploring new things in life and trying out different cuisines.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-<p align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-  </kbd>
-</p>
 
 
 
@@ -112,7 +114,6 @@ I love exploring new things in life and trying out different cuisines.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=dark"  display=block width=100% height=auto  alt="1" >
 </div>
 
-<div align="center">
 
 
 <hr>
@@ -143,6 +144,7 @@ const ronbonnke = {
 
 <hr> 
 
+<div align="center">
 ### Made By ❤️ RONBONNKE © Copyright. All Rights Reserved @2024.
 
 </div>
