@@ -1,8 +1,8 @@
 # Hey there, I'm Ron Bonnke..! 👋 ` I LOVE FRONT~END.. `
-
+<p>
 <h3>
-I'm a passionate full stack web developer and creator, <h4>dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.</h4>
-</h3>
+I'm a passionate full stack web developer and creator,<h4>dedicated to crafting digital solutions from scratch. I enjoy tackling challenges and bringing ideas to life through code.</h4>
+</h3></p>
 
 
 <center>  
