@@ -54,13 +54,9 @@ I love exploring new things in life and trying out different cuisines.
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
 </p>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&color=0366d6">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22863a">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=cb2431">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=6f42c1">
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=db6e00">
+
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&color=28a745">
+
 
 
 <hr>
