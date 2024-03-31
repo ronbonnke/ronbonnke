@@ -45,6 +45,8 @@ I love exploring new things in life and trying out different cuisines.
 
 <!-- Feel free to use or modify this template! -->
 
+<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+
 
 
 
@@ -143,35 +145,18 @@ const ronbonnke = {
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=dark"  display=block width=100% height=auto  alt="1" >
 </div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<
 
 <div align="center">
 <img src="banner.png" align = "center"/>
 </div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
 
-<!-- <img src="https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/snake.svg" alt="Snake animation" /> --!>
-
-###
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <div align="center">
 
