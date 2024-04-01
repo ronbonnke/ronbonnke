@@ -57,7 +57,7 @@ I love exploring new things in life and trying out different cuisines.
 
 <p align="center">
   <kbd>
-    <img src="https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/chinmaykaitade/chinmaykaitade/output/snake.svg" alt="Snake animation" />
   </kbd>
 </p>
 
