@@ -51,16 +51,13 @@ I love exploring new things in life and trying out different cuisines.
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=28a745">
 </p>
 
-<!-- Add Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fronbonnke&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
-
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&color=28a745">
 <hr>
 <br>
 
 <p align="center">
   <kbd>
-    <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/snake.svg" alt="Snake animation" />
   </kbd>
 </p>
 
