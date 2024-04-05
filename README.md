@@ -38,7 +38,7 @@ I'm Currently learning the basics of Python
 
 📫 **How to Reach Me:**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@email.com](mailto:ronbonnke789@email.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@gmail.com](mailto:ronbonnke789@gmail.com).
 
 
 
