@@ -104,6 +104,12 @@ I love exploring new things in life and trying out different cuisines.
 
 
 
+<# 📊 GitHub Stats
+
+| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut" width="400px" alt="Top Langs"> | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) |
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/codeWithEdison">
@@ -115,6 +121,9 @@ I love exploring new things in life and trying out different cuisines.
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+
 <!-- Summary Section Here -->
 ## 💳 Github Profile Summary Card
 
