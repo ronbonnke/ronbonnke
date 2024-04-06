@@ -101,10 +101,10 @@ I love exploring new things in life and trying out different cuisines.
 
 <!-- Random Quote Section Here -->
 
-### ✍️ Random Dev Quote
-
+<div align="center"> 
+   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+</div>
 
 
 
