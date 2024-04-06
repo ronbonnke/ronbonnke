@@ -74,20 +74,6 @@ I love exploring new things in life and trying out different cuisines.
 
 <!-- GitHub Stats Section Here -->
 
-# 📊 GitHub Stats
-
-| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut" width="400px" alt="Top Langs"> | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark" height="180em" /> |
-
-
-<div align="center">
-<a href="https://github.com/ronbonnke">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark" height="180em" />
-</div> |
- <hr>
-
 
 # 📊 GitHub Stats
 
