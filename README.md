@@ -100,10 +100,11 @@ I love exploring new things in life and trying out different cuisines.
 ![](https://github-profile-trophy.vercel.app/?username=ronbonnke&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Random Quote Section Here -->
-
 <div align="center"> 
-   ### ✍️ Random Dev Quote
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 
 
