@@ -101,8 +101,8 @@ I love exploring new things in life and trying out different cuisines.
 
 <!-- Random Quote Section Here -->
 <div align="center"> 
-
-
+<i>Random dev Quote for you!</i></br></br>
+   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
