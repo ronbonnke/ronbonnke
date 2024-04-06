@@ -74,7 +74,7 @@ I love exploring new things in life and trying out different cuisines.
 
 <!-- GitHub Stats Section Here -->
 
-<# 📊 GitHub Stats
+# 📊 GitHub Stats
 
 | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -86,6 +86,16 @@ I love exploring new things in life and trying out different cuisines.
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark" height="180em" />
 </div> |
+ <hr>
+
+
+# 📊 GitHub Stats
+
+| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact&theme=dark) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+
+| ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark) | ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark) |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 
 <hr>
 
