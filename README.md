@@ -47,10 +47,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 I love exploring new things in life and trying out different cuisines.
 
 <hr>
+<a href="https://skyline.github.com/ronbonnke/2024"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![ronbonnke's github stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=radical&include_all_commits=true) | ![ronbonnke's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&theme=radical&layout=compact) |
 
 <hr>
 
