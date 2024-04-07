@@ -118,8 +118,6 @@ I love exploring new things in life and trying out different cuisines.
 ## 💳 Github Profile Summary Card
 
 <div>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=2077"  display=block width=100% height=auto  alt="1" >
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronbonnke&theme=dark"  display=block width=100% height=auto  alt="1" >
 </div>
 
@@ -129,7 +127,7 @@ I love exploring new things in life and trying out different cuisines.
 
 ### A Little More About Me! 🧟‍♂️
 
-``javascript
+```javascript
 const ronbonnke = {
   askMeAbout: ["Web Dev", "Tech", "Editing"],
   code: [HTML, CSS, JavaScript, React, Node,  ],
@@ -149,11 +147,12 @@ const ronbonnke = {
 
  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
-``
+```
 <hr> 
 
 ## Star History
 <div align="center">
+   
 [![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
 if you like my profile, you can star⭐ the repo and you can fork and use it
 </div>
