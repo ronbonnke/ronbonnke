@@ -42,96 +42,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 
 
-![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/ronbonnke/ronbonnke"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/ronbonnke/ronbonnke"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/ronbonnke/ronbonnke/graphs/contributors"><img src="https://img.shields.io/github/contributors/ronbonnke/ronbonnke?color=blue"></a>
-    <a href="https://github.com/ronbonnke/ronbonnke/stargazers"><img src="https://img.shields.io/github/stars/ronbonnke/ronbonnke.svg?logo=github"></a>
-    <a href="https://github.com/ronbonnke/ronbonnke/network/members"><img src="https://img.shields.io/github/forks/ronbonnke/ronbonnke.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ronbonnke.ronbonnke" alt="visitors"/>   
-</p>
-
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![ronbonnke's github activity graph](https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/github-contribution-grid-snake.svg)
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke"></img>
-
-<!-- dark snake -->
-![ronbonnke's github activity graph](https://raw.githubusercontent.com/ronbonnke/ronbonnke/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/ronbonnke/ronbonnke/blob/output/github-contribution-grid-snake.svg) -->
-
-<a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
-
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/ronbonnke-->
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ronbonnke&show-other-skills=true" width="auto"></img>
-
-**📫 How to Reach me:**
-<p align="left">
-<a><img align="center" src="https://raw.githubusercontent.com/ronbonnke/ronbonnke/master/assets/twitter.svg" alt="ronbonnke" height="30" width="30" /></a>
-
-
-   yokosoo 
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
 
 
 
@@ -165,22 +75,10 @@ width="30%">
 
 
 
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<img src="https://profile-counter.glitch.me/ronbonnke/count.svg">  
 
 counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -188,14 +86,14 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
 
 
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@ronbonnke.github.readme)
 </br>
 
 [MIT](LICENSE)
@@ -204,17 +102,10 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
+  * if you like my profile, you can star⭐ the repo and you can fork and use it
+_Would you ike to meet me?
+_
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-![](assets/Bottom_down.svg)
 
 
 ⚡ **Fun Fact:**
