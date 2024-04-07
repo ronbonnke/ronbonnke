@@ -34,13 +34,11 @@ I'm always eager to learn and improve. Currently diving deeper into practices an
 I'm Currently learning the basics of Python 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
-<hr>
+
 
 📫 **How to Reach Me:**
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@gmail.com](mailto:ronbonnke789@gmail.com).
-
-<hr/>
 
 ⚡ **Fun Fact:**
 
@@ -154,11 +152,13 @@ const ronbonnke = {
 <div align="center">
    
 [![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
+</div>
+<div align="center">
 if you like my profile, you can star⭐ the repo and you can fork and use it
 </div>
+
 <hr/>
 
 <div align="center">
 ### Made By ❤️ RONBONNKE © Copyright. All Rights Reserved @2024.
-
 </div>
