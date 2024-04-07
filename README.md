@@ -57,8 +57,8 @@ I love exploring new things in life and trying out different cuisines.
 </p>
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
-<!-- <hr>
-<br> -->
+<hr>
+<br> 
 
 <p align="center">
   <kbd>
