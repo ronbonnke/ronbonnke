@@ -47,7 +47,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 I love exploring new things in life and trying out different cuisines.
 
 <hr>
-<a href="https://skyline.github.com/ronbonnke/2024"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+<a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
 
 <hr>
