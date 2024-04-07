@@ -49,9 +49,6 @@ I love exploring new things in life and trying out different cuisines.
 <a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
 
-<hr>
-
-
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
 </p>
