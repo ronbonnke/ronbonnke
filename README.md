@@ -40,40 +40,15 @@ I'm Currently learning the basics of Python
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@gmail.com](mailto:ronbonnke789@gmail.com).
 
+<hr/>
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
 
+if you like my profile, you can star⭐ the repo and you can fork and use it
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.5, 53.9]
-      }
-    }
-  ]
-}
-
-
-![](https://count.getloli.com/get/@ronbonnke.github.readme)
-</br>
-
-</p>
-
----
-  * if you like my profile, you can star⭐ the repo and you can fork and use it
-_Would you ike to meet me?
 <hr/>
-
 
 ⚡ **Fun Fact:**
 
