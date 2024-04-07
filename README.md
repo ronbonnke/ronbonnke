@@ -47,6 +47,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 I love exploring new things in life and trying out different cuisines.
 
 <hr>
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![ronbonnke's github stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=radical&include_all_commits=true) | ![ronbonnke's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&theme=radical&layout=compact) |
+
+<hr>
+
+
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
 </p>
