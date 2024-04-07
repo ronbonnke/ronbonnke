@@ -51,7 +51,7 @@ I love exploring new things in life and trying out different cuisines.
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=dark&title_color=28a745">
 </p>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&color=28a745">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
 <hr>
 <br>
 
