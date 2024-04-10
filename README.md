@@ -35,14 +35,6 @@ I'm Currently learning the basics of Python
 
 
 
-📫 **How to Reach Me:**
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@gmail.com](mailto:ronbonnke789@gmail.com).
-
-⚡ **Fun Fact:**
-
-I love exploring new things in life and trying out different cuisines.
-
 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 <a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
@@ -51,6 +43,15 @@ I love exploring new things in life and trying out different cuisines.
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
 </p>
+
+
+📫 **How to Reach Me:**
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnke-34275426a/overlay/about-this-profile/) or drop me an email at [ronbonnke789@gmail.com](mailto:ronbonnke789@gmail.com).
+
+⚡ **Fun Fact:**
+
+I love exploring new things in life and trying out different cuisines.
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
 <hr>
