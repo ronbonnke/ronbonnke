@@ -73,22 +73,25 @@ I love exploring new things in life and trying out different cuisines.
 
 
 
-
-
-
-<p align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/chinmaykaitade/chinmaykaitade/output/snake.svg" alt="Snake animation" />
-  </kbd>
-</p>
-
-
-
 <!-- Random Joke Section Here -->
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
+
+
+
+<div align="center"> 
+<i>Snake Animation</i></br></br>
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/chinmaykaitade/chinmaykaitade/output/snake.svg" alt="Snake animation" />
+  </kbd>
+</p>
+</div>
+
+
+
 
 
 <!-- GitHub Contribution Section Here -->
