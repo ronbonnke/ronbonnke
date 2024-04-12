@@ -145,11 +145,7 @@ const ronbonnke = {
 ```
 <hr> 
 
-## Star History
-<div align="center">
-   
-[![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
-</div>
+
 <div align="center">
 if you like my profile, you can star⭐ the repo and you can fork and use it
 </div>
@@ -158,4 +154,10 @@ if you like my profile, you can star⭐ the repo and you can fork and use it
 
 <div align="center">
 ### Made By ❤️ RONBONNKE © Copyright. All Rights Reserved @2024.
+</div>
+
+<!-- ## Star History
+<div align="center">
+   
+[![Star History Chart](https://api.star-history.com/svg?repos=ronbonnke/ronbonnke&type=Date)](https://star-history.com/#ronbonnke/ronbonnke&Date)
 </div>
