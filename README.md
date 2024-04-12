@@ -53,6 +53,24 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 I love exploring new things in life and trying out different cuisines.
 
+
+
+
+
+<!-- GitHub Stats Section Here -->
+
+
+# 📊 GitHub Stats
+
+| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut&theme=dark" width="400px" alt="Top Langs"> |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+
+| ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark) | ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark) |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+
+
+
+
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
 <hr>
 <br> 
@@ -71,21 +89,6 @@ I love exploring new things in life and trying out different cuisines.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-
-
-
-<!-- GitHub Stats Section Here -->
-
-
-# 📊 GitHub Stats
-
-| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronbonnke&theme=dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut&theme=dark" width="400px" alt="Top Langs"> |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-
-| ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark) | ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark) |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-
-<hr>
 
 <!-- GitHub Contribution Section Here -->
 
