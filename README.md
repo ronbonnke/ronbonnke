@@ -39,6 +39,9 @@ I'm Currently learning the basics of Python
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 <a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
+<hr>
+<br> 
 
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
@@ -71,9 +74,7 @@ I love exploring new things in life and trying out different cuisines.
 
 
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
-<hr>
-<br> 
+
 
 <p align="center">
   <kbd>
