@@ -82,7 +82,7 @@ I love exploring new things in life and trying out different cuisines.
 
 
 <div align="center"> 
-<i>Snake Animation</i></br></br>
+<i>Snake is hungry !!</i></br></br>
 <p align="center">
   <kbd>
     <img src="https://raw.githubusercontent.com/chinmaykaitade/chinmaykaitade/output/snake.svg" alt="Snake animation" />
