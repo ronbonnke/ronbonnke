@@ -1,4 +1,4 @@
-# Heyyyyy there,  I'm Ron Bonnke 👋  **I LOVE FRONT-END**
+# Heyyy there,  I'm Ron Bonnke 👋  **I LOVE FRONT-END**
 
 
 <h2>
