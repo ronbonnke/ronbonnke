@@ -6,7 +6,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 <center>  
 
-| Skills and Toools                                                                                                                |
+| Skills and Toools iv'e learnt                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | - Data Structures and Algorithms: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>            |
 | - Frontend: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/> |
