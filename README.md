@@ -32,8 +32,7 @@ I'm always eager to learn and improve. Currently diving deeper into practices an
 
 I'm Currently learning the basics of Python 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-
-
+but it's boring..
 
 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
