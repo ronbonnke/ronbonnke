@@ -1,7 +1,5 @@
-<p align="center">
-  ![rblogo](https://github.com/ronbonnke/ronbonnke/assets/118659706/fffa098f-8312-41e2-83b1-ac5a4aae8d84)
+![rblogo](https://github.com/ronbonnke/ronbonnke/assets/118659706/fd0eedc2-3942-4f18-9c79-f958ef84ab43)
 
-</p>
 
 # Heyy there,  I'm Ron Bonnke 👋  **I LOVE FRONTEND....**
 
