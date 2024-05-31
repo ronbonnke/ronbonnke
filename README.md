@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repository-name/raw/main/rblogo.png" alt="Your Logo" width="200px">
+  ![rblogo](https://github.com/ronbonnke/ronbonnke/assets/118659706/fffa098f-8312-41e2-83b1-ac5a4aae8d84)
+
 </p>
 
 # Heyy there,  I'm Ron Bonnke 👋  **I LOVE FRONTEND....**
