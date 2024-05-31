@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\RON BONNKE\Downloads\rblogo.png" alt="Your Logo" width="200px">
+</p>
+
 # Heyy there,  I'm Ron Bonnke 👋  **I LOVE FRONTEND....**
 
 
