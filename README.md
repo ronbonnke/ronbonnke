@@ -63,7 +63,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 ⚡ **Fun Fact:**
 
-I love exploring new things in life and trying out different cuisines.
+I love exploring new things in life and trying out different cuisines. 🍝🍜🥧🍥🥙🧇🍖
 
 
 
