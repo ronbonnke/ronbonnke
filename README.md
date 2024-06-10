@@ -150,7 +150,7 @@ const ronbonnke = {
   code: [HTML, CSS, JavaScript, React, Node,  ],
   tools: [Postman, Github, VsCode and other IDE's],
   techCommunities: {
-                           Google Crowdsource,
+                           
                            Github Developing Club,
                            Follow Me on LinkedIn
                       },
