@@ -17,7 +17,7 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 
 
-|  🛠 Skills and Tools I Learnt                                                                                                                                    |
+|  🛠 Tech stack and Tools I Learnt                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | - **Data Structures and Algorithms in **:  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>            |
 | - **Frontend**: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/>, <img src="https://img.icons8.com/color/48/000000/redux.png"/>, <img src="https://img.icons8.com/color/48/000000/sass.png"/>, <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> |
