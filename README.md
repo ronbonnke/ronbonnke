@@ -42,18 +42,6 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 Welcome to my custom-built E-commerce project for Bewakoof! This project showcases my skills in web development, providing a seamless online shopping experience.
 
 **[Click here to check my website ➡️](https://dazzling-fox-4dafe4.netlify.app/)**
-
-## 🌟 Major Sections
-
-### 🏠 Home
-- **Title:** Bewakoof E-commerce
-- **Description:** Discover trendy and affordable fashion.
-- **Featured Products:** Highlighting popular and new arrivals.
-
-### 📖 About Us
-- **Our Story:** Sharing the journey and vision of Bewakoof.
-- **Mission:** Providing quality fashion at affordable prices.
-- **Values:** Customer satisfaction, innovation, and integrity.
    - Experience the ultimate in online fashion with our Bewakoof Online Shopping E-commerce platform built on ReactJS. Dive into a world of trendy apparel, original designs, and seamless shopping.
 
 <hr>
