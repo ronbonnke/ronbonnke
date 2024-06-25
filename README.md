@@ -37,7 +37,23 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 1. [YouTube Clone](https://tiny-sopapillas-788139.netlify.app/)
    - YouTube clone project featuring a responsive design for seamless navigation on various devices. It leverages React components to mimic YouTube's layout, video player, and search functionality.
 
-2. [E-commerce Website - Bewakoof Clone](https://fabulous-basbousa-94a726.netlify.app/)
+2.# 🛍️ Bewakoof E-commerce Custom Build Project
+
+Welcome to my custom-built E-commerce project for Bewakoof! This project showcases my skills in web development, providing a seamless online shopping experience.
+
+**[Click here to check my website ➡️](https://dazzling-fox-4dafe4.netlify.app/)**
+
+## 🌟 Major Sections
+
+### 🏠 Home
+- **Title:** Bewakoof E-commerce
+- **Description:** Discover trendy and affordable fashion.
+- **Featured Products:** Highlighting popular and new arrivals.
+
+### 📖 About Us
+- **Our Story:** Sharing the journey and vision of Bewakoof.
+- **Mission:** Providing quality fashion at affordable prices.
+- **Values:** Customer satisfaction, innovation, and integrity.
    - Experience the ultimate in online fashion with our Bewakoof Online Shopping E-commerce platform built on ReactJS. Dive into a world of trendy apparel, original designs, and seamless shopping.
 
 <hr>
