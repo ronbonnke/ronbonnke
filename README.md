@@ -27,6 +27,16 @@ I'm a passionate full stack web developer and creator, dedicated to crafting dig
 
 
 </p>
+<p align="center">
+
+|  🛠 Tech stack and Tools I Learnt                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| - **Data Structures and Algorithms in **:  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>            |
+| - **Frontend**: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/css3.png"/>, <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>, <img src="https://img.icons8.com/color/48/000000/react-native.png"/>, <img src="https://img.icons8.com/color/48/000000/redux.png"/>, <img src="https://img.icons8.com/color/48/000000/sass.png"/>, <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> |
+| - **Backend**: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>, <img src="https://img.icons8.com/color/48/000000/express.png"/>, <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>, <img src="https://img.icons8.com/color/48/000000/sql.png"/>, <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> |
+| - **Tools**: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>, <img src="https://tse3.mm.bing.net/th?id=OIP.DWbpFZEsF1KaL3mk6sXbrwHaDt&pid=Api&P=0&h=180" width="24"/>, <img src="https://tse4.mm.bing.net/th?id=OIP.5ss3wRPYCjsjnqhlu9XLBgHaDH&pid=Api&P=0&h=180" width="24"/>, <img src="https://img.icons8.com/color/48/000000/firebase.png" width="24"/>, <img src="https://img.icons8.com/color/48/000000/react-router.png" width="24"/>, <img src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" width="24"/> |
+
+</p>
 
 </center>
 
