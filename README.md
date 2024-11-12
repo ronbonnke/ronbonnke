@@ -5,7 +5,7 @@
 </p>
 
 # Heyy there,  I'm Ron Bonnke..👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <h2>
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch.... I enjoy tackling challenges and bringing ideas to life through .code </h2>
