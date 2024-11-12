@@ -4,8 +4,8 @@
   <img src="https://github.com/ronbonnke/ronbonnke/assets/118659706/fd0eedc2-3942-4f18-9c79-f958ef84ab43" alt="rblogo" width="200px" style="border-radius: 50%;">
 </p>
 
-# Heyy there,  I'm Ron Bonnke..👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,+ I'm;Ron+Bonnke+.+.+👋)](https://git.io/typing-svg)
 
 <h2>
 I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch.... I enjoy tackling challenges and bringing ideas to life through .code </h2>
