@@ -152,17 +152,17 @@ const ronbonnke = {
   code: [HTML, CSS, JavaScript, React, Node,  ],
   tools: [Postman, Github, VsCode and other IDE's],
   techCommunities: {
-                           
-                           Github Developing Club,
-                           Follow Me on LinkedIn
+                           Newton school,
+                           Narrative asia,
+                           LogiCoy
                       },
   hobbies: {
-               'Playing Games',
+               'Playing V Games',
                'Tech Enthusiast'
                'Staying up all Night Chasing that ONE BUG...'
            },
 
- challenge: ["I am Learning Full Stack Web Development"],
+ challenge: ["DEVELOPING MY SKILLS AS fullstack-developer"],
 
  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
