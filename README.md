@@ -9,10 +9,27 @@
 
 <h2>
 ------ SDE and creative head <br/>
------- Dedicated to crafting digital solutions from scratch... <br/>
------- I Enjoy tackling challenges and bringing ideas to life through .code
-
+  ------ Dedicated to crafting digital solutions from scratch... <br/>
+    ------ I Enjoy tackling challenges and bringing ideas to life through .code
   `
+`
+`
+  `
+    ` 
+        `
+          `
+          `
+        `
+      `
+    `
+    `
+      `
+        `
+        `
+      `
+    `
+  `
+`
 </h2>
 
 <center>  
