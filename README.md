@@ -8,29 +8,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.+.+👋)](https://git.io/typing-svg)
 
 <h2>
------- SDE and creative head <br/>
+  ------ SDE and Creative Head <br/>
   ------ Dedicated to crafting digital solutions from scratch... <br/>
-    ------ I Enjoy tackling challenges and bringing ideas to life through <bolder> .code <bolder/><br/>
-  ` <br/>
-`<br/>
-`<br/>
-  `<br/>
-    ` <br/>
-        `<br/>
-          `<br/>
-          `<br/>
-        `<br/>
-      `<br/>
-    `<br/>
-    `<br/>
-      `<br/>
-        `<br/>
-        `<br/>
-      `<br/>
-    `<br/>
-  `<br/>
-`<br/>
+  ------ I enjoy tackling challenges and bringing ideas to life through <strong>.code</strong> <br/>
+  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;</span> <br/>
+  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;</span> <br/>
+  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;</span> <br/>
 </h2>
+
 
 <center>  
 
