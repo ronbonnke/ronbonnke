@@ -12,9 +12,9 @@
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;"> ------> </span>Strategic creative Head and SDE <br/>
-  <span style="font-size: 20px; color: #ccc;"> ------> </span>Dedicated to crafting solutions and creating new ideas from scratch. <br/>
-  <span style="font-size: 20px; color: #ccc;"> ------> </span>Enjoying challenges and bringing ideas to life through <strong>.code</strong> <br/>
+  <span style="font-size: 20px; color: #ccc;"> ------> </span>(S)trategic creative Head and " Developer </> " <br/>
+  <span style="font-size: 20px; color: #ccc;"> ------> </span>(D)edicated to crafting solutions and creating new ideas from scratch. <br/>
+  <span style="font-size: 20px; color: #ccc;"> ------> </span>(E)njoying challenges and bringing ideas to life through <strong>.code</strong> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;</span> <br/>
