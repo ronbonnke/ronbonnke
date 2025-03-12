@@ -8,9 +8,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.+.+👋)](https://git.io/typing-svg)
 
 <h2>
------- Jr. SDE and creative head <br/>
+------ SDE and creative head <br/>
 ------ Dedicated to crafting digital solutions from scratch... <br/>
 ------ I Enjoy tackling challenges and bringing ideas to life through .code
+
+  `
 </h2>
 
 <center>  
