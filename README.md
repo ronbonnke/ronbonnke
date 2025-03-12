@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.+.+👋)](https://git.io/typing-svg)
 
 <h2>
-I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch..... I enjoy tackling challenges and bringing ideas to life through .code </h2>
+I'm a passionate full stack web developer and creator, dedicated to crafting digital solutions from scratch... I enjoy tackling challenges and bringing ideas to life through .code </h2>
 
 <center>  
 
