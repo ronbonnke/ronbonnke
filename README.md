@@ -60,17 +60,19 @@ Welcome to my custom-built E-commerce project for Bewakoof! This project showcas
 
 I'm always eager to learn and improve. Currently diving deeper into practices and exploring new things.
 
-I'm Currently learning the basics of Python 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-but it's boring..
-
+I'm currently learning **Spring, Ionic, Angular, and TypeScript**  
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/ionic.png"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 <a href="https://skyline.github.com/ronbonnke/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=ronbonnke&style=flat-square&theme=dark&color=28a745">
 <hr>
-<br> 
+<br>
+
 
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
