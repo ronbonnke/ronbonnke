@@ -96,10 +96,7 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 # 📊 GitHub Stats
 
-| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) |  
-|---|  
-| ![ronbonnke GitHub Streak](https://streak-stats.demolab.com?user=ronbonnke&theme=dark&hide_border=true) |  
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut&theme=dark" width="400px" alt="Top Langs"> |  
+| ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark) | ![ronbonnke GitHub Streak](https://streak-stats.demolab.com?user=ronbonnke&theme=dark) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=donut&theme=dark" width="400px" alt="Top Langs"> |
 
 | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 
