@@ -92,20 +92,29 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 
 <!-- GitHub Stats Section Here -->
+# 📊 GitHub Stats  
 
-# 📊 GitHub Stats
-
-## 🔥 Streaks & Stats
+## 🔥 Streaks & Stats  
 | ![ronbonnke GitHub Streak](https://streak-stats.demolab.com?user=ronbonnke&theme=dark&hide_border=true) | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark&hide_border=true) |  
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 
-## 📊 Most Used Languages
+## 📊 Most Used Languages  
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke&layout=compact&theme=dark&hide_border=true" width="400px" alt="Top Langs"> |
 |:-------------------------------------------------------------------------------------------------:|
 
-## 📈 Additional Insights
+## 🏆 GitHub Trophies  
+| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ronbonnke&theme=darkhub&no-bg=true&no-frame=true) |
+|:-------------------------------------------------------------------------------------------------:|
+
+## 📈 Additional Insights  
 | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronbonnke&theme=dark&utcOffset=8) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronbonnke&theme=dark) | ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronbonnke&theme=dark) |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+
+## 📊 Contribution Graph  
+| ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ronbonnke&theme=github-dark&hide_border=true) |
+|:-------------------------------------------------------------------------------------------------:|
+
+---
 
 
 <!-- Random Joke Section Here -->
