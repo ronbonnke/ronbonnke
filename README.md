@@ -36,23 +36,7 @@
 | - **Tools**: <img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>, <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>, <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>, <img src="https://img.icons8.com/color/48/000000/firebase.png" width="32"/>,  <img src="https://img.icons8.com/color/48/000000/figma.png" width="32"/>,  <img src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" width="32"/>, <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="32"/>, <img src="https://img.icons8.com/color/48/000000/git.png" width="32"/>, <img src="https://tse3.mm.bing.net/th?id=OIP.DWbpFZEsF1KaL3mk6sXbrwHaDt&pid=Api&P=0&h=180" width="48"/>, ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white), <img src="https://tse4.mm.bing.net/th?id=OIP.5ss3wRPYCjsjnqhlu9XLBgHaDH&pid=Api&P=0&h=180" width="48"/> |
 
 </p>
-
-
 </center>
-
-<hr>
-💼 **Projects:**
-
-
-1. [YouTube Clone](https://tiny-sopapillas-788139.netlify.app/)
-   - YouTube clone project featuring a responsive design for seamless navigation on various devices. It leverages React components to mimic YouTube's layout, video player, and search functionality.
-
-2.# 🛍️ Bewakoof E-commerce Custom Build Project
-
-Welcome to my custom-built E-commerce project for Bewakoof! This project showcases my skills in web development, providing a seamless online shopping experience.
-
-**[Bewakoof E-commerce](https://dazzling-fox-4dafe4.netlify.app/)**
-   - Experience the ultimate in online fashion with our Bewakoof Online Shopping E-commerce platform built on ReactJS. Dive into a world of trendy apparel, original designs, and seamless shopping.
 
 <hr>
 
@@ -73,11 +57,9 @@ I'm currently learning **Spring, Ionic, Angular, and TypeScript**
 <hr>
 <br>
 
-
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ronbonnke&data=followers,repositories,stars,commits&theme=onedark&title_color=28a745">
 </p>
-
 
 📫 **How to Reach Me:**
 
@@ -178,24 +160,24 @@ const ronbonnke = {
   askMeAbout: ["Web Dev", "Tech", "Editing"],
   code: [HTML, CSS, JavaScript, React, Node,  ],
   tools: [Postman, Github, VsCode and other IDE's],
-  techCommunities: {
-                           Newton school,
-                           Narrative asia,
-                           LogiCoy
+  techCodeCommunities: {
+                           Studied: Newton school,
+                           Internship: Narrative asia,
+                           working Employee: LogiCoy
                       },
-  hobbies: {
-               'Playing V Games',
-               'Tech Enthusiast'
+  Hobbies: {
                'Staying up all Night Chasing that ONE BUG...'
+               'Tech Enthusiast'
+               'Playing Vid Games',
+               'Playing with',
            },
 
- challenge: ["DEVELOPING MY SKILLS AS fullstack-developer"],
+ challenge: ["DEVELOPING MY SKILLS AS Fresher"],
 
  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
 ```
 <hr> 
-
 
 <div align="center">
 if you like my profile, you can star⭐ the repo and you can fork and use it
