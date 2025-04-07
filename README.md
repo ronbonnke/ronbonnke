@@ -5,7 +5,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.+👋+👋+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.+.👋+..👋+...👋)](https://git.io/typing-svg)
 
 <h2>
   <span style="font-size: 20px; color: #ccc;">&#8226;</span> <br/>
