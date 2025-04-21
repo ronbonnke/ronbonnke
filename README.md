@@ -72,116 +72,6 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 
 
-
-<h1 align="center">🛠 Pull Request - Improvement</h1>
-
-## Summary
-Short summary of what is included in this PR.
-
----
-
-### What's Changed
-- 🛠 Code improvements
-- 🐛 Bug fixes
-- 📚 Documentation updates
-
----
-
-### How to Review
-- Clone the branch.
-- Navigate to changed files.
-- Test new features manually.
-
----
-
-> 🖤 _Built with clean code and passion._
-
-
-
-# 🧪 Developer Pull Request
-
-## Purpose
-- Feature / Bug / Chore (choose one)
-
-## Changes Overview
-- Added: ⚙️ Dynamic Search Component
-- Updated: 🔄 API integration for faster loading
-
-## Testing Done
-- ✅ Tested on Chrome, Firefox, and Safari
-- ✅ Passed all unit and integration tests
-
-## Merge Checklist
-- [x] No conflicts with `main`
-- [x] Code review approved
-
----
-
-> ⚡ _Merging only after all checks pass!_
-
-
-
-# 🚀 Pull Request Incoming!
-
----
-
-## 🎯 Objective
-✨ Implemented a brand-new feature: Animated Landing Page!
-
-## 🔥 Changes
-- Added custom animations (Framer Motion)
-- Integrated new fonts and color palettes
-
-## 👀 Preview
-![Landing Animation](URL_TO_GIF)
-
----
-
-### ⚙️ Checklist
-- [x] Animations work smoothly
-- [x] Compatible with all major browsers
-- [x] Mobile responsive
-
----
-
-> 🚀 _Let's ship it like a boss!_
-
-
-
-# 🚀 Feature PR by [ronbonnke](https://github.com/ronbonnke)
-
-[![PR-Status](https://img.shields.io/badge/Pull%20Request-Open-blue?style=for-the-badge)]()
-
-## 🔥 About this Pull Request
-- Major redesign of Landing Page
-- Added new icons set
-- Dark Mode support activated 🌑
-
-## 🛠 Changes
-- Updated Header component
-- Introduced reusable Button component
-- Improved color contrast for accessibility
-
----
-
-## 🧪 Test Instructions
-1. Pull this branch
-2. Run project
-3. Test responsiveness across devices
-
----
-
-> 🖋️ _Every PR tells a story. Proudly authored by **ronbonnke**._
-
-
-
-
-🖼️  [![Pull Request Banner](https://img.shields.io/badge/Pull%20Request-Ready-green?style=for-the-badge&logo=github)](LINK_TO_YOUR_PR)
-
-
-
-
-
 <hr>
 
 ## 🔥 Pull Requests Showcase
@@ -190,9 +80,6 @@ Short summary of what is included in this PR.
   <img src="https://img.shields.io/badge/Pull%20Requests-Welcome-brightgreen?style=for-the-badge&logo=github" alt="Pull Requests Welcome Badge" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/118659706/233843305-34a7e4e4-1813-4b60-8c2c-ef5560632c22.png" width="80%" alt="Pull Request Illustration"/>
-</p>
 
 <h3 align="center">🤝 Always open to collaboration and exciting contributions!</h3>
 
