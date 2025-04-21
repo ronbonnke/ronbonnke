@@ -28,20 +28,6 @@
 
 
 
-<h2>📦 Pull Request</h2>
-
-<table>
-<tr>
-<td style="padding:10px; border:1px solid #ccc; background:#f1f8ff;">
-<b>Title:</b> Add feature to login page<br>
-<b>Author:</b> @username<br>
-<b>Status:</b> <span style="color:green;">✔️ Merged</span><br>
-<b>Description:</b> This PR adds a "Remember Me" checkbox on the login page.
-</td>
-</tr>
-</table>
-
-
 
 |  🛠 Tech stack and Tools I Learnt                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,6 +70,42 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 I love exploring new things in life and trying out different cuisines. 🍝🍜🥧🍥🥙🧇🍖
 
+
+
+
+
+
+<hr>
+
+## 🔥 Pull Requests Showcase
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Requests-Welcome-brightgreen?style=for-the-badge&logo=github" alt="Pull Requests Welcome Badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/118659706/233843305-34a7e4e4-1813-4b60-8c2c-ef5560632c22.png" width="80%" alt="Pull Request Illustration"/>
+</p>
+
+<h3 align="center">🤝 Always open to collaboration and exciting contributions!</h3>
+
+<p align="center">
+<a href="https://github.com/ronbonnke/ronbonnke/pulls">
+<img src="https://img.shields.io/github/issues-pr/ronbonnke/ronbonnke?style=for-the-badge&logo=git&logoColor=white&color=28a745">
+</a>
+</p>
+
+<div align="center">
+
+| 🔥 Pull Request Status | ✍️ Meaning |
+| :--------------------: | :--------: |
+| 🟢 Open                | Working on improvements |
+| 🟡 In Review           | Reviewing the code carefully |
+| 🔴 Closed              | Successfully merged or addressed |
+
+</div>
+
+<hr>
 
 
 
