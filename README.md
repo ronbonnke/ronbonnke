@@ -28,6 +28,21 @@
 
 
 
+<h2>📦 Pull Request</h2>
+
+<table>
+<tr>
+<td style="padding:10px; border:1px solid #ccc; background:#f1f8ff;">
+<b>Title:</b> Add feature to login page<br>
+<b>Author:</b> @username<br>
+<b>Status:</b> <span style="color:green;">✔️ Merged</span><br>
+<b>Description:</b> This PR adds a "Remember Me" checkbox on the login page.
+</td>
+</tr>
+</table>
+
+
+
 |  🛠 Tech stack and Tools I Learnt                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | - **Data Structures and Algorithms in**:  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>            |
