@@ -109,9 +109,9 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Ronbonnke's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ronbonnke's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronbonnke&theme=gruvbox)](https://wakatime.com/@ronbonnke)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ## 🔥 Streaks & Stats  
