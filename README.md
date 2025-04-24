@@ -77,13 +77,6 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 ## 🔥 Pull Requests Showcase
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Requests-Welcome-brightgreen?style=for-the-badge&logo=github" alt="Pull Requests Welcome Badge" />
-</p>
-
-
-<h3 align="center">🤝 Always open to collaboration and exciting contributions!</h3>
-
-<p align="center">
 <a href="https://github.com/ronbonnke/ronbonnke/pulls">
 <img src="https://img.shields.io/github/issues-pr/ronbonnke/ronbonnke?style=for-the-badge&logo=git&logoColor=white&color=28a745">
 </a>
@@ -98,24 +91,14 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 | 🔴 Closed              | Successfully merged or addressed |
 
 </div>
-
 <hr>
-
-
 
 
 <!-- GitHub Stats Section Here -->
 # 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-
-## 🔥 Streaks & Stats  
-| ![ronbonnke GitHub Streak](https://streak-stats.demolab.com?user=ronbonnke&theme=dark&hide_border=true) | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark&hide_border=true) |  
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=ronbonnke&theme=radical&hide_border=true)](https://git.io/streak-stats) | ![ronbonnke Github Stats](https://github-readme-stats.vercel.app/api?username=ronbonnke&show_icons=true&theme=dark&hide_border=true) |  
 |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 
 ## 📊 Most Used Languages  
