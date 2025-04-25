@@ -182,15 +182,15 @@ const ronbonnke = {
   code: [HTML, CSS, JavaScript, React, Node,  ],
   tools: [Postman, Github, VsCode and other IDE's],
   techCodeCommunities: {
-                           Studied: Newton school,
-                           Internship: Narrative asia,
+                           Studied: NewtonSchool,
+                           Internship: NarrativeAsia,
                            working Employee: LogiCoy
                       },
   Hobbies: {
                'Staying up all Night Chasing that ONE BUG...'
                'Tech Enthusiast'
                'Playing Vid Games',
-               'Playing with',
+               'building a sleeper build if possible',
            },
 
  challenge: ["DEVELOPING MY SKILLS AS Fresher"],
