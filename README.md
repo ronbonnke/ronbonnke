@@ -14,7 +14,7 @@
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>(S)trategic creative Head and ` Software Development Engineer ` <br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>(D)edicated to crafting solutions and creating new ideas from scratch.<br/>
-  <span style="font-size: 20px; color: #ccc;"> ------> </span>(E)njoying challenges and bringing ideas to life through <em>code .</em> <br/>
+  <span style="font-size: 20px; color: #ccc;"> ------> </span>(E)njoying challenges and bringing ideas to life through " <em>code .</em> " <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;</span> <br/>
