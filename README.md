@@ -193,7 +193,7 @@ const ronbonnke = {
                'building a sleeper build if possible',
            },
 
- challenge: ["DEVELOPING MY SKILLS AS Fresher"],
+ challenge: ["Developing my skills EACH DAY"],
 
  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
