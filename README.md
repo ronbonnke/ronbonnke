@@ -177,14 +177,14 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 ### A Little More About Me! 🧟‍♂️
 
 ```javascript
-const ronbonnke = {
-  askMeAbout: ["Web Dev", "Tech", "Editing"],
-  code: [HTML, CSS, JavaScript, React, Node,  ],
-  tools: [Postman, Github, VsCode and other IDE's],
-  techCodeCommunities: {
-                           Studied: NewtonSchool,
-                           Internship: NarrativeAsia,
-                           working Employee: LogiCoy
+const Ron_Bonnke = {
+  About_Me : ["Web Developer", "SDE 1", "Editing"],
+  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA ],
+  Tools : [Postman, Github, VsCode and other IDE's],
+  Tech_Code_Communities : {
+                           Trained_at : NewtonSchool,
+                           Internship : NarrativeAsia,
+                           Present_Employee : LogiCoy
                       },
   Hobbies: {
                'Staying up all Night Chasing that ONE BUG...'
@@ -193,9 +193,9 @@ const ronbonnke = {
                'building a sleeper build if possible',
            },
 
- challenge: ["Developing my skills EACH DAY"],
+ Challenge: ["Developing my skills EACH DAY"],
 
- lastButNotLeast: ["Updating Myself Virtually and in Reality"]
+ LastButNotLeast: ["Updating Myself Virtually and also In_Reality"]
 }
 ```
 <hr> 
