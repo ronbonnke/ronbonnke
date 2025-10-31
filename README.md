@@ -182,9 +182,9 @@ const Ron_Bonnke = {
   Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA ],
   Tools : [Postman, Github, VsCode and other IDE's],
   Tech_Code_Communities : {
-                           Trained_at : NewtonSchool,
-                           Internship : NarrativeAsia,
-                           Present_Employee : LogiCoy
+                           Trained_at : Newton School,
+                           Internship : Narrative Asia,
+                           currently_working_@ : LogiCoy Software Technologies
                       },
   Hobbies: {
                'Staying up all Night Chasing that ONE BUG...'
