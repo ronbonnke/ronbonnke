@@ -72,6 +72,36 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 
 
+
+<hr>
+
+### A Little More About Me! 🧟‍♂️
+
+```javascript
+const Ron_Bonnke = {
+  Me : ["Developer", "SDE-1", "Basic Editor"],
+  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA , SpringBoot, MySQL, RESTFUL APIs ],
+  Tools I Used : [Postman, Github, VsCode and other IDE's],
+  Tech_Communities : {
+                           Trained_at : Newton School,
+                           Internship : Narrative Asia,
+                           currently_working_@ : LogiCoy Software Technologies
+                      },
+  Hobbies: {
+               'Staying up all Night Chasing that ONE BUG...'
+               'Tech Enthusiast'
+               'Playing Video Games',
+               'Building a sleeper build if possible',
+           },
+
+ Challenge !!! : ["Trying To Develop My skills EACH-DAY"],
+
+ LastButNotLeast: ["Updating Myself Virtually and In Reality :) "]
+}
+```
+<hr> 
+
+
 <hr>
 
 ## 🔥 Pull Requests Showcase
@@ -172,33 +202,6 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 
 
-<hr>
-
-### A Little More About Me! 🧟‍♂️
-
-```javascript
-const Ron_Bonnke = {
-  Me : ["Developer", "SDE-1", "Basic Editor"],
-  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA , SpringBoot, MySQL, RESTFUL APIs ],
-  Tools I Used : [Postman, Github, VsCode and other IDE's],
-  Tech_Communities : {
-                           Trained_at : Newton School,
-                           Internship : Narrative Asia,
-                           currently_working_@ : LogiCoy Software Technologies
-                      },
-  Hobbies: {
-               'Staying up all Night Chasing that ONE BUG...'
-               'Tech Enthusiast'
-               'Playing Video Games',
-               'Building a sleeper build if possible',
-           },
-
- Challenge !!! : ["Trying To Develop My skills EACH-DAY"],
-
- LastButNotLeast: ["Updating Myself Virtually and In Reality :) "]
-}
-```
-<hr> 
 
 <div align="center">
 if you like my profile, you can star ⭐ the repo and you can fork and re - use it
