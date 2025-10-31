@@ -178,10 +178,10 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 ```javascript
 const Ron_Bonnke = {
-  About_Me : ["Web Developer", "SDE 1", "Editing"],
-  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA ],
-  Tools : [Postman, Github, VsCode and other IDE's],
-  Tech_Code_Communities : {
+  Me : ["Developer", "SDE-1", "Basic Editor"],
+  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA , SpringBoot, MySQL, RESTFUL APIs ],
+  Tools I Used : [Postman, Github, VsCode and other IDE's],
+  Tech_Communities : {
                            Trained_at : Newton School,
                            Internship : Narrative Asia,
                            currently_working_@ : LogiCoy Software Technologies
@@ -189,19 +189,19 @@ const Ron_Bonnke = {
   Hobbies: {
                'Staying up all Night Chasing that ONE BUG...'
                'Tech Enthusiast'
-               'Playing Vid Games',
-               'building a sleeper build if possible',
+               'Playing Video Games',
+               'Building a sleeper build if possible',
            },
 
- Challenge: ["Developing my skills EACH DAY"],
+ Challenge !!! : ["Trying To Develop My skills EACH-DAY"],
 
- LastButNotLeast: ["Updating Myself Virtually and also In_Reality"]
+ LastButNotLeast: ["Updating Myself Virtually and In Reality :) "]
 }
 ```
 <hr> 
 
 <div align="center">
-if you like my profile, you can star⭐ the repo and you can fork and use it
+if you like my profile, you can star ⭐ the repo and you can fork and re - use it
 </div>
 
 <hr/>
