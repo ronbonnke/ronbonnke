@@ -60,8 +60,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 
 ⚡ **Fun Fact:**
 
-I love exploring new things in life and trying out different cuisines. 🍝🍜🥧🍥🥙🧇🍖
-
+I love Exploring and trying out Multi Cuisines 🍝🍜🥧🍥🥙🧇🍖
 
 <hr>
 
@@ -69,13 +68,13 @@ I love exploring new things in life and trying out different cuisines. 🍝🍜�
 
 ```javascript
 const Ron_Bonnke = {
-  Designation / Role : ["Developer", "SDE-1", "Basic Editor"],
+  Designation Role : ["Developer", "SDE-1", "Basic Editor"],
   Code Knowledge : [HTML, CSS, JavaScript, React, Node, Angular-18, TypeScript, SCSS, JAVA, SpringBoot, MySQL, creating RESTful APIs ],
   Tools I Use : [Postman, Github, VsCode and other IDE's],
   Tech Communities : {
-                           Trained_at : Newton School,
+                           Trained : Newton School,
                            Internship : Narrative Asia,
-                           currently_working_@ : LogiCoy Software Technologies
+                           currently-working@ : LogiCoy Software Technologies
                       },
   Hobbies: {
                'Staying up all night chasing that ONE BUG..'
