@@ -74,7 +74,7 @@ const Ron_Bonnke = {
   Tech Communities : {
                            Trained : Newton School,
                            Internship : Narrative Asia,
-                           currently-working@ : LogiCoy Software Technologies
+                           currently-working @ : LogiCoy Software Technologies
                       },
   Hobbies: {
                'Staying up all night chasing that ONE BUG..'
