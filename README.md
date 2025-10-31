@@ -71,24 +71,22 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ron-bonnk
 I love exploring new things in life and trying out different cuisines. 🍝🍜🥧🍥🥙🧇🍖
 
 
-
-
 <hr>
 
 ### A Little More About Me! 🧟‍♂️
 
 ```javascript
 const Ron_Bonnke = {
-  Me : ["Developer", "SDE-1", "Basic Editor"],
-  Code_Knowledge : [HTML, CSS, JavaScript, React, Node, Angular 18, Typescript, SCSS, JAVA , SpringBoot, MySQL, RESTFUL APIs ],
-  Tools I Used : [Postman, Github, VsCode and other IDE's],
-  Tech_Communities : {
+  Designation / Role : ["Developer", "SDE-1", "Basic Editor"],
+  Code Knowledge : [HTML, CSS, JavaScript, React, Node, Angular-18, TypeScript, SCSS, JAVA, SpringBoot, MySQL, creating RESTful APIs ],
+  Tools I Use : [Postman, Github, VsCode and other IDE's],
+  Tech Communities : {
                            Trained_at : Newton School,
                            Internship : Narrative Asia,
                            currently_working_@ : LogiCoy Software Technologies
                       },
   Hobbies: {
-               'Staying up all Night Chasing that ONE BUG...'
+               'Staying up all night chasing that ONE BUG..'
                'Tech Enthusiast'
                'Playing Video Games',
                'Building a sleeper build if possible',
@@ -102,7 +100,6 @@ const Ron_Bonnke = {
 <hr> 
 
 
-<hr>
 
 ## 🔥 Pull Requests Showcase
 
