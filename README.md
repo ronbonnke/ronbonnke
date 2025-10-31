@@ -8,17 +8,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.👋)](https://git.io/typing-svg)
 
 <h2>
-  <span style="font-size: 20px; color: #ccc;">&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>[S]trategic creative Head and *` Software Development Engineer `* <br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>[D]edicated to crafting solutions and creating new ideas from scratch...<br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>[E]njoying challenges and bringing ideas to life through <em>"code&nbsp;&nbsp;."</em> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;&#8226;</span> <br/>
-  <span style="font-size: 20px; color: #ccc;">&#8226;</span> <br/>
 </h2>
 
 
@@ -98,28 +90,6 @@ const Ron_Bonnke = {
 }
 ```
 <hr> 
-
-
-
-## 🔥 Pull Requests Showcase
-
-<p align="center">
-<a href="https://github.com/ronbonnke/ronbonnke/pulls">
-<img src="https://img.shields.io/github/issues-pr/ronbonnke/ronbonnke?style=for-the-badge&logo=git&logoColor=white&color=28a745">
-</a>
-</p>
-
-<div align="center">
-
-| 🔥 Pull Request Status | ✍️ Meaning |
-| :--------------------: | :--------: |
-| 🟢 Open                | Working on improvements |
-| 🟡 In Review           | Reviewing the code carefully |
-| 🔴 Closed              | Successfully merged or addressed |
-
-</div>
-<hr>
-
 
 <!-- GitHub Stats Section Here -->
 # 📊 GitHub Stats  
