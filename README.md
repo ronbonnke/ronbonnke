@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyy+there+,++I'm+Ron+Bonnke+.+.👋)](https://git.io/typing-svg)
 
 <h2>
-  <span style="font-size: 20px; color: #ccc;"> ------> </span>[S]trategic creative Head and *`Software-Development-Engineer`* <br/>
+  <span style="font-size: 20px; color: #ccc;"> ------> </span>[S]trategic creative Head and *Software-Development-Engineer* <br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>[D]edicated to crafting solutions and creating new ideas from scratch...<br/>
   <span style="font-size: 20px; color: #ccc;"> ------> </span>[E]njoying challenges and bringing ideas to life through <em>"code&nbsp;&nbsp;."</em> <br/>
 </h2>
